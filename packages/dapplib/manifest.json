@@ -1,0 +1,14 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "voting",
+            "name": "core-ballot",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "flow",
+    "language": "cadence",
+    "framework": "vanilla"
+}
